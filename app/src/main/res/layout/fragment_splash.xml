@@ -5,6 +5,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:background="@android:color/white"
     tools:context=".fragments.SplashFragment"
     tools:ignore="ExtraText">
 
@@ -34,7 +35,7 @@
         android:id="@+id/imageView6"
         android:layout_width="536dp"
         android:layout_height="257dp"
-        android:layout_marginBottom="4dp"
+
         android:src="@drawable/cloud"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
