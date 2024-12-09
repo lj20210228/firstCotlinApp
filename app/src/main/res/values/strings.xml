@@ -9,4 +9,5 @@
     <string name="already_registered">Already Registered?</string>
     <string name="sign_in">Sign In</string>
     <string name="not_registered">Not Registered?</string>
+    <string name="type_your_task">Type your task</string>
 </resources>
